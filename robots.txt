@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stackoverflow.maskoding.com/sitemap.xml
+Sitemap: https://brides.cms-lists.org/sitemap.xml
